@@ -24,3 +24,7 @@ print(favorite_language.rstrip())
 
 universe_age = 14_000_000
 print(universe_age)
+
+MAX_VALUE = 5000
+print(MAX_VALUE)
+
