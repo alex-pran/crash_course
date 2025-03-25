@@ -31,7 +31,7 @@ print(motorcycle)
 print(popped_motorcycle)
 print("--------------------")
 motorcycle = ['honda', 'yamaha', 'suzuki']
-last_owned = motorcycle.pop()
+last_owned = motorcycle.pop(-1)
 print(f'The last motorcycle I owned {last_owned.title()}')
 
 print("----------  2  ----------")
