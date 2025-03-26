@@ -14,3 +14,10 @@ for magician in magicians:
 
 print("=========2=========")
 
+magicians = ['alice', 'david', 'carolina']
+for magician in magicians:
+    print(f"{magician.title()}, that was amazing.")
+    print(f"I can't wait to see your next trick, {magician.title()}.\n")
+
+print(f"Thanks for everyone. That was a great magic show.")
+
